@@ -32,4 +32,4 @@
 
 ![Chilcano de Maracumango](https://cdn-blog.joinnus.com/wp-content/uploads/2023/01/09192610/chilcano-mano-768x450.jpg)
 
-📹 **Video tutorial**: [Ver en TikTok](https://www.tiktok.com/@comocome.pe/video/7454346687579049222)
+**Video tutorial**: [Ver en TikTok](https://www.tiktok.com/@comocome.pe/video/7454346687579049222)
