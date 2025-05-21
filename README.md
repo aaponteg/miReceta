@@ -1,5 +1,10 @@
-# Receta de Chilcano de Maracumango
+# Comandos básicos de git
 
+# Receta de Chilcano de Maracumango
+0. git status
+### Flujo ACP
+1.  add
+git add TU ARCHIVO
 ## Sigue los pasos a continuación:
 
 ### Materiales utilizados:
