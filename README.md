@@ -1,10 +1,17 @@
 # Comandos básicos de git
-
-# Receta de Chilcano de Maracumango
 0. git status
 ### Flujo ACP
 1.  add
-git add TU ARCHIVO
+git add TU_ARCHIVO
+git add . ---> guarda todo
+
+2.  commit => comentar cambios
+git commit -m "Comentario"
+
+3.  push => Subir cambios
+git push origin NOMBRE_DE_RAMA
+
+# Receta de Chilcano de Maracumango
 ## Sigue los pasos a continuación:
 
 ### Materiales utilizados:
